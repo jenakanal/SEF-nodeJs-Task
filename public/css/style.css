@@ -1,0 +1,29 @@
+
+#hed1{
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    width: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.links {
+  margin: 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+background-color: antiquewhite;
+}
+ a {
+   text-decoration: none; 
+   text-transform: uppercase;
+   font-size: 20px;
+   padding: 20px;
+   color: black;
+}
+a:hover{
+  background-color: rgb(253, 207, 148);
+  padding: 0;
+ 
+}
